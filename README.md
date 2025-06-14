@@ -583,30 +583,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Arduino community** for HC-SR04 reference implementations
 - **Contributors** who helped improve this project
 
-### 🔗 References
-
-- [STM32F411RE Reference Manual](https://www.st.com/resource/en/reference_manual/dm00119316.pdf)
-- [HC-SR04 Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
-- [SG90 Servo Documentation](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
-- [STM32CubeIDE User Guide](https://www.st.com/resource/en/user_manual/dm00629856.pdf)
-
-## 📞 Support & Contact
-
-### 🆘 Getting Help
-
-- **Documentation**: Check this README first
-- **Issues**: Use GitHub Issues for bug reports
-- **Discussions**: GitHub Discussions for questions
-- **Email**: Direct contact for urgent issues
-
-### 🌐 Resources
-
-- [Project Wiki](https://github.com/yourusername/stm32-radar-guard/wiki)
-- [Video Tutorials](https://youtube.com/playlist/your-playlist)
-- [Project Blog](https://yourblog.com/stm32-radar-guard)
-
----
-
 ## 🏆 Project Status
 
 **Status**: ✅ **Stable Release v1.0**
