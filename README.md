@@ -188,7 +188,7 @@ HC-SR04 Sensor                   I2C LCD Display
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/stm32-radar-guard-system.git
+git clone https://github.com/cjaryou/stm32-radar-guard-system.git
 cd stm32-radar-guard-system
 ```
 
@@ -571,7 +571,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author & Acknowledgments
 
 ### 🔹 Author
-**[Your Name]** - *Initial work and development*
+**Numan Haktan Kartal** - *Initial work and development*
 - 📧 Email: cjaryou5@gmail.com
 - 🐙 GitHub: [@cjaryou](https://github.com/cjaryou)
 - 💼 LinkedIn: [Haktan Kartal](https://www.linkedin.com/in/haktan-kartal-a8207b36b/)
@@ -594,10 +594,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 📈 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/stm32-radar-guard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/stm32-radar-guard?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/stm32-radar-guard)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/stm32-radar-guard)
+![GitHub stars](https://img.shields.io/github/stars/cjaryou/stm32-radar-guard-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/cjaryou/stm32-radar-guard-system?style=social)
+![GitHub issues](https://img.shields.io/github/issues/cjaryou/stm32-radar-guard-system)
+![GitHub last commit](https://img.shields.io/github/last-commit/cjaryou/stm32-radar-guard-system)
 
 ---
 
