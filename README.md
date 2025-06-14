@@ -572,7 +572,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🔹 Author
 **[Your Name]** - *Initial work and development*
-- 📧 Email: your.email@example.com
+- 📧 Email: cjaryou5@gmail.com
 - 🐙 GitHub: [@cjaryou](https://github.com/cjaryou)
 - 💼 LinkedIn: [Haktan Kartal](https://www.linkedin.com/in/haktan-kartal-a8207b36b/)
 
